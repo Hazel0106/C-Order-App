@@ -1,0 +1,12 @@
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\bin\Debug\MyBagelShop-22233517-Menghua Guo.exe.config
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\bin\Debug\MyBagelShop-22233517-Menghua Guo.exe
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\bin\Debug\MyBagelShop-22233517-Menghua Guo.pdb
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.csproj.AssemblyReference.cache
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.csproj.SuggestedBindingRedirects.cache
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop_22233517_Menghua_Guo.MyBagelShop.resources
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop_22233517_Menghua_Guo.Properties.Resources.resources
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.csproj.GenerateResource.cache
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.csproj.CoreCompileInputs.cache
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.exe
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop-22233517-Menghua Guo.pdb
+D:\BusinessAppProgram\MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo\obj\Debug\MyBagelShop_22233517_Menghua_Guo.MyBagelReportForm.resources

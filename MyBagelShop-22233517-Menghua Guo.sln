@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBagelShop-22233517-Menghua Guo", "MyBagelShop-22233517-Menghua Guo\MyBagelShop-22233517-Menghua Guo.csproj", "{C16C9D8A-76D7-4985-A4E8-84F29FB79BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16C9D8A-76D7-4985-A4E8-84F29FB79BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16C9D8A-76D7-4985-A4E8-84F29FB79BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16C9D8A-76D7-4985-A4E8-84F29FB79BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16C9D8A-76D7-4985-A4E8-84F29FB79BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18A8F1B-679F-4D53-8EFA-0C89E192ABC1}
+	EndGlobalSection
+EndGlobal

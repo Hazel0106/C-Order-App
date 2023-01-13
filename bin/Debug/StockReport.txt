@@ -1,0 +1,18 @@
+Date:	28-11-2022, Generate Time:	13:03:31
+
+Available Stock
+
+			S		M		R		L		XL
+Plain			14		34		47		30		20
+Egg			10		25		44		20		20
+Everything		20		9		26		11		5
+Cinnamon		19		5		12		8		3
+Blueberry		26		18		3		8		3
+Chocolate		17		25		0		0		0
+Onion			29		23		20		5		5
+Asiago		29		24		24		3		5
+Salt			35		28		44		17		6
+Poppy		30		17		20		8		5
+French		23		21		30		10		5
+Whole Wheat	20		21		21		10		2
+Rainbow		14		18		16		6		0
